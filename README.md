@@ -1,5 +1,3 @@
-## Try the App here:
-
 ## What this App does
 When you input an ERC-20 Token Address it shows you the top 10 or, depending on your input, more token holders.
 \
